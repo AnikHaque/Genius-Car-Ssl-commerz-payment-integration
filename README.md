@@ -12,7 +12,7 @@ Pay with Bank, Bkash, Nagad and many more using SSLCommerz payment gateway.
 - Create a sslcommerz sandbox account
 
 ## Want the starter code and follow me in the video?
-- clone the starter branch `git clone -b starter https://github.com/Abdify/genius-car-bkash-sslcommerz-payment.git`
+- clone the starter branch `git clone -b starter https://github.com/AnikHaque/Genius-Car-Ssl-commerz-payment-integration.git`
 - create .env.local according to the .env.local.sample file in the client folder
 - create .env according to the .env.sample file in the server folder
 - navigate to client/ and server/ folder and install the dependencies with `npm i`
@@ -20,7 +20,7 @@ Pay with Bank, Bkash, Nagad and many more using SSLCommerz payment gateway.
 
 
 ## Want to use this?
-- clone this project `git clone https://github.com/Abdify/genius-car-bkash-sslcommerz-payment.git`
+- clone this project `git clone https://github.com/AnikHaque/Genius-Car-Ssl-commerz-payment-integration.git`
 - create .env.local according to the .env.local.sample file in the client folder
 - create .env according to the .env.sample file in the server folder
 - navigate to client/ and server/ folder and install the dependencies with `npm i`
